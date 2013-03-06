@@ -1,0 +1,9 @@
+Nijntje huisstijl kleuren
+Blauw #0066cc
+Geel #ffcc00 geeeeeel ffcc00
+Rood #ff6633
+oranja ff3300
+Groen #339933  336633
+
+lettertype
+Helvetica (for some things) and arial Rounded Bold
